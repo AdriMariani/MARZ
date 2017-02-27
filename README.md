@@ -1,2 +1,3 @@
-# zsr
-LIT comp science project
+# MZR Group Computer Science CPT
+
+Subject to change
