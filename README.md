@@ -1,3 +1,3 @@
-# MZR Group Computer Science CPT
+# MARZ Group Computer Science CPT
 
-Subject to change
+(Still) Subject to change
